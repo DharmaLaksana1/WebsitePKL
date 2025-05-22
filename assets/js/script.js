@@ -109,6 +109,7 @@
     delay: 10,
     time: 1000
   });
+  
   $('.team-slider').owlCarousel({
     loop: true,
     nav: false,
