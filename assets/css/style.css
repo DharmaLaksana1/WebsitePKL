@@ -583,6 +583,13 @@ Header TopBar
   position: relative;
 }
 
+.banner2 {
+  padding: 340px 0px;
+  background: url("../images/bg/img2.jpg") center center no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
 .banner:before {
   position: absolute;
   content: "";
